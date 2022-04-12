@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tkdmadalin
+- 👀 I’m interested in frontend developing
+- 🌱 I’m currently learning html,css,javascript
+- 💞️ I’m looking to collaborate on any little projects
+- 📫 Contact me here !
